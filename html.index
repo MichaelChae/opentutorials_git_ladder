@@ -3,11 +3,14 @@
   	<title>GIT 수업</title>
   </head>
   <head>
+    <body>
+  	  <header>
+  	  <h1>안녕</h1>
+  	  <header>
+  	  <ul>
+  	    <li>Git 소개</li
+  	  </ul>
+    </body>
   </head>
-  <body>
-  	<header>
-  	<h1>안녕</h1>
-  	<header>
-  </body>
-
+  
 </html>
